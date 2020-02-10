@@ -1,0 +1,19 @@
+{
+  "name": "pagination_mongo",
+  "version": "1.0.0",
+  "description": "simple e-commerce site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hyphen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "mongoose": "^5.8.11",
+    "morgan": "^1.9.1"
+  }
+}
